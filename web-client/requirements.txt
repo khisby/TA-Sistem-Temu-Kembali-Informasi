@@ -1,5 +1,5 @@
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Sastrawi==1.0.1
 pandas==1.0.4
 nltk==3.5
